@@ -1,0 +1,18 @@
+1. Infrastructure requirements, No. of system required at present and after 8 months of working need of systems in future
+2. Material management system and its requirements and man power required.
+3. Vendor/Sale/Distibution and/or Inventory Management system and man power required. (SD module in SAP)
+4. For E Commerece and Apps what is required and man power.
+
+
+
+Elements of material 
+
+Foreceasting Demand Estimation
+Procurement
+Receipt & Inspection
+Maintenance
+Storage
+Storage Method
+Monitoring of Expiry
+Return Policy
+Issues
